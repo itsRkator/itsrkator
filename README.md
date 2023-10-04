@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi There👋, Welcome to my GitHub Profile.</h1>
+    <h4>Hi There👋, Welcome to my GitHub Profile.</h4>
     <h3>I'm Rohitash, a passionate Software Developer.</h3>
 </div>
 
