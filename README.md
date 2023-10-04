@@ -5,7 +5,7 @@
 ## About me:
 -  Graduated from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the
 Department of Computer Science and Engineering. 
-- I love to play with code, and solve challenging problems. Wanna know more, please visit at [My Profile](https://itsRkator.github.io).
+- I love to play with code andd solve challenging problems. Wanna know more, please visit [My Profile](https://itsRkator.github.io).
 - ⚡ Fun facts: Playing cricket, Gardening, Travelling & Bike Riding.
 - Technical Member at <b>Google Developers Club</b>, NIT Andhra Pradesh.
 
@@ -35,6 +35,6 @@ Department of Computer Science and Engineering.
 ***
 <div align="center">
   <h1>
-    Thanks for Visiting. Have a Nice Day.
+    Thanks for Visiting.I hope you havee a Nice Day.
   </h1>
 </div>
