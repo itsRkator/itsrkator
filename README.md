@@ -3,11 +3,9 @@
 <img align ="right" height="275" width="500" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" src="Code Eat Sleep Code" />
 
 ## About me:
--  Graduated from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the
-Department of Computer Science and Engineering. 
-- I love to play with code andd solve challenging problems. Wanna know more, please visit [My Profile](https://itsRkator.github.io).
-- ⚡ Fun facts: Playing cricket, Gardening, Travelling & Bike Riding.
-- Technical Member at <b>Google Developers Club</b>, NIT Andhra Pradesh.
+-  Graduated from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) with a B.Tech (Bachelor of Technology) degree in computer science.
+- I love to play with code and solve challenging problems. Wanna know more, please visit [My Profile](https://itsRkator.github.io).
+- Like playing cricket, Gardening, Travelling and bike Riding.
 
 ***
 
