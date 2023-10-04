@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Hi 👋, I'm Rohitash</h1>
-    <h3>A passionate Software Developer.</h3>
+    <h1>Hi There👋, Welcome to my GitHub Profile.</h1>
+    <h3>I'm Rohitash, a passionate Software Developer.</h3>
 </div>
 
 <img alt="Developer sitting at System" height="auto" width="350" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" align="right"/>
@@ -44,8 +44,6 @@
   </a>
 </p>
 
-<p align="center">
-
 ## 🤝🏻 Connect with Me
 
 [![Rohitash Kator's GitHub Profile](https://img.shields.io/badge/github-itsRkator-30363d?style=badge&logo=github)](https://www.github.com/itsRkator)
@@ -55,5 +53,3 @@
 [![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=badge&logo=twitter)](https://twitter.com/itsRkator)
 [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-mystical.rms-ff105d?style=badge&logo=instagram)](https://instagram.com/mystical.rms)
 
-</p>
----
