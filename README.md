@@ -5,10 +5,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;B.Tech in Computer Science and Engineering from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I explore new technologies, practice problem solving and Listen soft-music.\
+💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp; B.Tech in Computer Science and Engineering from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in).\
+🌱 &nbsp; I'm on track to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp; In my free time, I explore new technologies, practice problem-solving solving and like to listen soft-music.\
 
 <img alt="Developer sitting at System" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" align="right"/>
 
@@ -48,13 +48,13 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<div align="center">
   [![Rohitash Kator's Linkedin Profile](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=badge&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
   [![Rohitash Kator's DEV Community Profile](https://img.shields.io/badge/dev-itsRkator-000000?style=badge&logo=dev.to)](https://dev.to/itsrkator)
   [![Rohitash Kator's Facebook Profile](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=badge&logo=facebook)](https://facebook.com/itsRkator)
   [![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=badge&logo=twitter)](https://twitter.com/itsRkator)
   [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-hey.auspicious-c32aa3?style=badge&logo=instagram)](https://instagram.com/mystical.rms)
   ![Profile Viewers](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator)
-</p>
+</div>
 
 ---
