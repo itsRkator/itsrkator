@@ -3,14 +3,14 @@
     <h3>A passionate Software Developer.</h3>
 </div>
 
-<img alt="Developer sitting at System" height="400" width="auto" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" align="right"/>
+<img alt="Developer sitting at System" height="350" width="auto" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
 - 🎓 &nbsp; B.Tech in Computer Science and Engineering from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in).\
 - 🌱 &nbsp; I'm on track to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-- ✍️ &nbsp; In my free time, I explore new technologies, practice problem-solving solving and like to listen to soft music.\
+- ✍️ &nbsp; In my free time, I explore new technologies, practice problem-solving solving and listen to soft music.\
 
 
 ### 🛠 &nbsp;Tech Stack
