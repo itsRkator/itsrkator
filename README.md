@@ -16,7 +16,7 @@ department of Computer Science and Engineering.
   [![Rohitash Kator's DEV Community Profile](https://img.shields.io/badge/dev-itsRkator-000000?style=badge&logo=dev.to)](https://dev.to/itsrkator)
   [![Rohitash Kator's Facebook Profile](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=badge&logo=facebook)](https://facebook.com/itsRkator)
   [![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=badge&logo=twitter)](https://twitter.com/itsRkator)
-  [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-hey.auspicious-c32aa3?style=badge&logo=instagram)](https://instagram.com/hey.auspicious)
+  [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-hey.auspicious-c32aa3?style=badge&logo=instagram)](https://instagram.com/mystical.rms)
 <!--   ![Profile Viewers](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator) -->
 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=itsRkator&label=Profile%20views&color=0e75b6&style=flat"
