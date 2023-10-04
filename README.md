@@ -1,38 +1,60 @@
-<h1 align="center">Hi 👋, I'm Rohitash</h1>
-<h3 align="center">A passionate Software Developer.</h3>
-<img align ="right" height="275" width="500" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" src="Code Eat Sleep Code" />
+<div align="center">
+    <h1>Hi 👋, I'm Rohitash</h1>
+    <h3>A passionate Software Developer.</h3>
+</div>
 
-## About me:
--  Graduated from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) with a B.Tech (Bachelor of Technology) degree in computer science.
-- I love to play with code and solve challenging problems. Wanna know more, please visit [My Profile](https://itsRkator.github.io).
-- Like playing cricket, Gardening, Travelling and bike Riding.
+### 👨🏻‍💻 &nbsp;About Me
 
-***
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;B.Tech in Computer Science and Engineering from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in).\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I explore new technologies, practice problem solving and Listen soft-music.\
 
-## 📫 Reach me at:
+<img alt="Developer sitting at System" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/itsRkator">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsRkator&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
   [![Rohitash Kator's Linkedin Profile](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=badge&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
   [![Rohitash Kator's DEV Community Profile](https://img.shields.io/badge/dev-itsRkator-000000?style=badge&logo=dev.to)](https://dev.to/itsrkator)
   [![Rohitash Kator's Facebook Profile](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=badge&logo=facebook)](https://facebook.com/itsRkator)
   [![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=badge&logo=twitter)](https://twitter.com/itsRkator)
   [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-hey.auspicious-c32aa3?style=badge&logo=instagram)](https://instagram.com/mystical.rms)
-<!--   ![Profile Viewers](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator) -->
+  ![Profile Viewers](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator)
+</p>
 
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=itsRkator&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Rohitash Kator" /></p> -->
-
-
-***
-<div>
-  <img height="300" width="49%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-  <img height="250" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="Technology Statistics" />
-</div>
-
-<!-- ## Stanzers:
-  [![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers)
- -->
-***
-<div align="center">
-  <h1>
-    Thanks for Visiting.I hope you havee a Nice Day.
-  </h1>
-</div>
+---
