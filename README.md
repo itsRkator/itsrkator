@@ -3,7 +3,7 @@
     <h3>I'm Rohitash, a passionate Software Developer.</h3>
 </div>
 
-<img alt="Developer sitting at System" height="auto" width="350" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" align="right"/>
+<img alt="Developer sitting at System" height="auto" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" align="right"/>
 
 ## 👨🏻‍💻 About Me
 
