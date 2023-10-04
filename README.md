@@ -44,7 +44,7 @@
   </a>
 </p>
 
-<div align="center">
+<p align="center">
     
     ## 🤝🏻 Connect with Me
     
@@ -55,5 +55,5 @@
     [![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=badge&logo=twitter)](https://twitter.com/itsRkator)
     [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-mystical.rms-ff105d?style=badge&logo=instagram)](https://instagram.com/mystical.rms)
     
-</div>
+</p>
 ---
