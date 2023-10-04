@@ -20,7 +20,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)
