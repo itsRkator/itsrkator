@@ -3,7 +3,7 @@
     <h3>A passionate Software Developer.</h3>
 </div>
 
-<img alt="Developer sitting at System" height="200" width="400" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" align="right"/>
+<img alt="Developer sitting at System" height="300" width="400" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" align="right"/>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
