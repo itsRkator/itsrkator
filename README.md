@@ -1,99 +1,40 @@
-<h1 align="center">ROHITASH KATOR</h1>
-<p align="center">
-  <a href="mailto:rohitashkmwt@gmail.com">rohitashkmwt@gmail.com</a> |
-  <a href="tel:+919785787351">+91 - 9785787351</a> |
-  Hyderabad, India
-</p>
+<h1 align="center">Hi 👋, I'm Rohitash</h1>
+<h3 align="center">A passionate Software Developer.</h3>
+<img align ="right" height="275" width="500" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" src="Code Eat Sleep Code" />
 
-<p align="center">Google Cloud Certified Data Engineer skilled in software development and web apps using Angular, HTML, JavaScript, CSS, Typescript, and MySQL. Seeking challenging software engineering roles.</p>
+## About me:
+-  Graduated from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the
+Department of Computer Science and Engineering. 
+- I love to play with code, and solve challenging problems. Wanna know more, please visit at [My Profile](https://itsRkator.github.io).
+- ⚡ Fun facts: Playing cricket, Gardening, Travelling & Bike Riding.
+- Technical Member at <b>Google Developers Club</b>, NIT Andhra Pradesh.
 
-## Skills
-- **Programming Languages:** JavaScript/TypeScript, Python, Java
-- **Web Development:** HTML/CSS, DOM, JSON, REST API, Material UI, Bootstrap
-- **Frameworks:** Angular, React, Node.js, Flask
-- **Databases:** MySQL, MongoDB
-- **Cloud & Version Control:** Git, GitHub, Google Cloud
-- **Core Concepts:** Data Structures and Algorithms
-- **Soft Skills:** Time Management, Leadership, Problem-Solving, Teamwork and Collaboration
-- **Languages:** Hindi and English
+***
 
-## Experience
+## 📫 Reach me at:
+  [![Rohitash Kator's Linkedin Profile](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=badge&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
+  [![Rohitash Kator's DEV Community Profile](https://img.shields.io/badge/dev-itsRkator-000000?style=badge&logo=dev.to)](https://dev.to/itsrkator)
+  [![Rohitash Kator's Facebook Profile](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=badge&logo=facebook)](https://facebook.com/itsRkator)
+  [![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=badge&logo=twitter)](https://twitter.com/itsRkator)
+  [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-hey.auspicious-c32aa3?style=badge&logo=instagram)](https://instagram.com/mystical.rms)
+<!--   ![Profile Viewers](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator) -->
 
-### Cloud Engineer at SpringML, Hyderabad
-*June 2023 - Present*
-- Participated in the development of security assessment tools on GCP.
-- Led software and web application development in JavaScript, Angular, Bootstrap, and Material UI.
-- Integrated APIs using Flask.
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=itsRkator&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Rohitash Kator" /></p> -->
 
-### Associate Data Engineer at SpringML, Hyderabad
-*July 2022 - May 2023*
-- Focused on software & web application development, primarily using JavaScript and Python.
-- Developed & integrated APIs with Flask.
 
-## Internships
+***
+<div>
+  <img height="300" width="49%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+  <img height="250" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="Technology Statistics" />
+</div>
 
-### Consultant at iLink Digital, Pune
-*January 2022 - April 2022*
-- Worked on analytical and interactive visualization web application on Grafana using PostgreSQL and ElasticSearch.
-- Developed and integrated APIs using Python frameworks like Django and Flask.
-
-### Software Developer at Jivrus Technologies, Bengaluru
-*May 2021 - November 2021*
-- Developed web applications utilizing JavaScript, Node.js, and Angular.
-- Managed bug fixing and new feature implementation.
-
-## Education
-
-- **B.Tech in Computer Science** from National Institute of Technology, Andhra Pradesh
-  *August 2018 - June 2022*
-
-## Projects
-
-### Project 1: Vehicle Crash Analytics
-- **Description:** Web app for state agencies to manage crash data, analyze patterns, and enhance safety measures.
-- **Responsibilities:**
-  - Created web user interfaces (Angular, HTML5, CSS3, TypeScript, Bootstrap) hosted on Google Cloud Run.
-  - Developed business APIs (Flask, Python, MySQL) and authored Karma/Jasmine unit test cases.
-
-### Project 2: To-Do App
-- **Description:** A web application that helps you create and manage lists of tasks and activities.
-- **Responsibilities:**
-  - Developed web user interfaces (Angular, TypeScript, HTML5, CSS3, Material UI) hosted on Google Cloud Run.
-  - Implemented business APIs (Node.js, JavaScript, MongoDB) and conducted rigorous testing (unit and integration tests).
-
-### Project 3: Department Management System
-- **Description:** Streamline department operations with a modern solution, utilizing Angular, Node.js, MongoDB, and Git for efficient workflow management.
-- **Responsibilities:**
-  - Led system architecture, design, and development.
-  - Managed database integration, security, testing, documentation, and deployment, fostering effective collaboration.
-
-### Project 4: Student Portal
-- **Description:** A student portal is your education hub, offering grades, schedules, and school info in one place.
-- **Responsibilities:**
-  - Developed user interfaces (Angular, HTML5, CSS3, TypeScript, Bootstrap, JavaScript).
-  - Implemented business APIs (Node.js, MySQL) and conducted thorough testing (unit and integration tests).
-
-### Project 5: Portfolio
-- **Description:** A portfolio project showcases your best work, skills, and achievements in one place, offering a clear view of your capabilities and experiences to others.
-- **Responsibilities:**
-  - Developed user interfaces with Angular, HTML5, CSS3, TypeScript, Bootstrap, and JavaScript.
-  - Implemented business APIs using Node.js and MySQL, conducting unit and integration tests for application quality assurance.
-
-## Certification
-
-- Google Certified Professional Data Engineer
-- Google Certified Associate Data Engineer
-- MongoDB Basics
-- Python Programming
-- MEAN Stack
-
-## Volunteering
-
-- Core Team Member, Developer Student Club, NIT Andhra Pradesh by Google Developers
-- Executive Member, Entrepreneurship & Innovation Cell, NIT Andhra Pradesh
-
-## Hobbies
-
-- Listening to Soft-Music
-- Playing Cricket
-- Travelling and Gardening
+<!-- ## Stanzers:
+  [![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers)
+ -->
+***
+<div align="center">
+  <h1>
+    Thanks for Visiting. Have a Nice Day.
+  </h1>
+</div>
