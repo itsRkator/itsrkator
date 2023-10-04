@@ -44,13 +44,16 @@
   </a>
 </p>
 
-## 🤝🏻 Connect with Me
+<div align="center">
+    
+    ## 🤝🏻 Connect with Me
+    
+    [![Rohitash Kator's GitHub Profile](https://img.shields.io/badge/github-itsRkator-30363d?style=badge&logo=github)](https://www.github.com/itsRkator)
+    [![Rohitash Kator's Linkedin Profile](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=badge&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
+    [![Rohitash Kator's DEV Community Profile](https://img.shields.io/badge/dev-itsRkator-000000?style=badge&logo=dev.to)](https://dev.to/itsrkator)
+    [![Rohitash Kator's Facebook Profile](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=badge&logo=facebook)](https://facebook.com/itsRkator)
+    [![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=badge&logo=twitter)](https://twitter.com/itsRkator)
+    [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-mystical.rms-ff105d?style=badge&logo=instagram)](https://instagram.com/mystical.rms)
 
-[![Rohitash Kator's GitHub Profile](https://img.shields.io/badge/github-itsRkator-30363d?style=badge&logo=github)](https://www.github.com/itsRkator)
-[![Rohitash Kator's Linkedin Profile](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=badge&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
-[![Rohitash Kator's DEV Community Profile](https://img.shields.io/badge/dev-itsRkator-000000?style=badge&logo=dev.to)](https://dev.to/itsrkator)
-[![Rohitash Kator's Facebook Profile](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=badge&logo=facebook)](https://facebook.com/itsRkator)
-[![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=badge&logo=twitter)](https://twitter.com/itsRkator)
-[![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-mystical.rms-ff105d?style=badge&logo=instagram)](https://instagram.com/mystical.rms)
-
+</div>
 ---
