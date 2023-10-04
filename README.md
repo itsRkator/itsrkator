@@ -2,7 +2,7 @@
     <h1>Hi 👋, I'm Rohitash</h1>
     <h3>A passionate Software Developer.</h3>
 </div>
-<img alt="Developer sitting at System" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" align="right"/>
+<img alt="Developer sitting at System" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
