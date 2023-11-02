@@ -1,7 +1,7 @@
 <div align="center">
-    <p>Welcome to my GitHub Profile.<p>
     <h2>I'm Rohitash</h2>
     <p>A passionate Software Engineer.<p>
+    <p>Welcome to my GitHub Profile.<p>
 </div>
 
 <img alt="Developer sitting at System" height="auto" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" align="right"/>
