@@ -35,15 +35,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/itsRkator">
-    <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsRkator&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
 ## 🤝🏻 Connect with Me
 
 [![Rohitash Kator's GitHub Profile](https://img.shields.io/badge/github-itsRkator-30363d?style=badge&logo=github)](https://www.github.com/itsRkator)
@@ -52,4 +43,13 @@
 [![Rohitash Kator's Facebook Profile](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=badge&logo=facebook)](https://facebook.com/itsRkator)
 [![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=badge&logo=twitter)](https://twitter.com/itsRkator)
 [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-mystical.rms-ff105d?style=badge&logo=instagram)](https://instagram.com/mystical.rms)
+
+## ⚙️ GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/itsRkator">
+    <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsRkator&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
