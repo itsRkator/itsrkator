@@ -1,13 +1,12 @@
 <div align="center">
-    <h2>I'm Rohitash</h2>
+    <p>I'm Rohitash</p>
     <p>A passionate Software Engineer.<p>
-    <p>Welcome to my GitHub Profile.<p>
 </div>
 
 <img alt="Developer sitting at System" height="auto" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" align="right"/>
 
 ## 👨🏻‍💻 About Me
-
+- 👤 I am good in JavaScript, Node.js, Angular, React.js, Python, Flask, MongoDB, and MySQL with nearly 2+ years hand-on experience.
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓 B.Tech in Computer Science and Engineering from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in).
 - 🌱 I'm on track to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture.
