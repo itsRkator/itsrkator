@@ -1,19 +1,17 @@
 <div align="center">
-<hr />
-
-![GitHub Profile](https://img.shields.io/badge/@Rohitash%20Kator-purple?logo=h&logoColor=white&style=for-the-badge)
-![Region](https://img.shields.io/badge/dynamic/json?color=green&label=Region&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FitsRkator&style=for-the-badge)
-![Visitors](https://komarev.com/ghpvc/?username=itsRkator&label=Guests&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FitsRkator&style=for-the-badge)
-<hr/>
-</div>
-
-<div align="center">
     <h2>Welcome to my GitHub! 👋🏻</h2>
-    <img alt="Illustration of a focused developer working at a multi-monitor setup, typing code with various lines of text displayed on the screens." height="300" width="auto" src="https://github.com/itsrkator/itsrkator/blob/main/code_in_focus.gif" />
+    <img alt="Focused developer working at a multi-monitor setup" height="300" width="auto" src="https://github.com/itsrkator/itsrkator/blob/main/code_in_focus.gif" />
+</div>
+<div align="center">
+
+![GitHub Profile](https://img.shields.io/badge/@Rohitash%20Kator-purple?logo=h&logoColor=white&style=for-the-badge%22%20alt=%22GitHub%20Profile%22)
+![Location](https://img.shields.io/badge/dynamic/json?color=green&label=Location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FitsRkator&style=for-the-badge%22)
+![Visitors](https://komarev.com/ghpvc/?username=itsRkator&label=Visitors&color=0e75b6&style=for-the-badge")
+![Followers](https://img.shields.io/badge/dynamic/json?color=orange&label=Followers&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FitsRkator&style=for-the-badge")
 </div>
 
 ## 👨🏻‍💻 About Me
+
 <img height="180em" width="50%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 - 🚀 I'm a passionate Software Engineer with 2+ years of hands-on experience in **JavaScript**, **Node.js**, **Angular**, **React.js**, **Python**, **Flask**, **MongoDB**, and **MySQL**.
@@ -21,20 +19,21 @@
 - 🎓 I hold a B.Tech in Computer Science and Engineering from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in).
 - 🌱 Currently, I'm diving deeper into **Artificial Intelligence**, **Systems Design**, and **Cloud Architecture** to enhance my skill set.
 - ✍️ In my leisure time, I love exploring new tech trends, honing my problem-solving skills, and enjoying soft music.
-- 🌟 Explore my [Repositories](https://github.com/itsRkator?tab=repositories) to see the projects I've built. If you love them, drop a star! 
+- 🌟 Explore my [Repositories](https://github.com/itsRkator?tab=repositories) to see the projects I've built. If you love them, drop a star!
 - 🏆 The best way to predict the future is to think, analyze, invent, test, learn from mistakes, and then re-build it.
 
-
-
 ## 🌟 Projects
+
 - **[Contract Note Parser](https://github.com/itsRkator/contract-note-parser)**: A Python Flask application that extracts contract information from PDFs using OpenAI and AWS Textract. **Tech Stack**: Python, Flask, AWS.
 - **[FamO Money](https://github.com/itsRkator/famo-money)**: A platform for families to manage their investments in stocks, mutual funds, and real estate, built with Nest.js and PostgreSQL. **Tech Stack**: Nest.js, PostgreSQL, JavaScript.
 - **[Vehicle Crash Analytics](https://github.com/itsRkator/vehicle-crash-analytics)**: A web application for analyzing vehicle crashes using Angular, MySQL, and Python Flask. **Tech Stack**: Angular, MySQL, Flask.
 
 ## 🎯 Why I Love Coding
+
 Ever since I wrote my first "Hello World" program, I’ve been fascinated by the power of technology to solve real-world problems. I love the creative aspect of coding, turning ideas into functional applications that can help people.
 
 ## 🛠 Tech Stack
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -53,9 +52,11 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
 </div>
 
 ## ⚙️ GitHub Analytics
+
 <p align="center">
     <img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="itsRkator" />
     <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
@@ -63,6 +64,7 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 </p>
 
 ## 🤝🏻 Social
+
 <div align="center">
 
 [![Rohitash Kator's GitHub Profile](https://img.shields.io/badge/github-itsRkator-30363d?style=flat&logo=github)](https://www.github.com/itsRkator)
@@ -71,4 +73,5 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 [![Rohitash Kator's Facebook Profile](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=flat&logo=facebook)](https://facebook.com/itsRkator)
 [![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=flat&logo=twitter)](https://twitter.com/itsRkator)
 [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-itsRkator-ff105d?style=flat&logo=instagram)](https://instagram.com/itsRkator)
+
 </div>
