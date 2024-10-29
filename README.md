@@ -12,21 +12,29 @@
 
 ## 👨🏻‍💻 About Me
 
-<img height="auto" width="50%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="auto" width="45%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-- 🚀 I'm a passionate Software Engineer with 2+ years of hands-on experience in **JavaScript**, **Node.js**, **Angular**, **React.js**, **Python**, **Flask**, **MongoDB**, and **MySQL**.
-- 💡 I thrive on exploring new technologies and creating innovative software solutions, often developing quick hacks to streamline tasks.
-- 🎓 I hold a B.Tech in Computer Science and Engineering from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in).
-- 🌱 Currently, I'm diving deeper into **Artificial Intelligence**, **Systems Design**, and **Cloud Architecture** to enhance my skill set.
-- ✍️ In my leisure time, I love exploring new tech trends, honing my problem-solving skills, and enjoying soft music.
-- 🌟 Explore my [Repositories](https://github.com/itsRkator?tab=repositories) to see the projects I've built. If you love them, drop a star!
-- 🏆 The best way to predict the future is to think, analyze, invent, test, learn from mistakes, and then re-build it.
+#### 🚀 Software Engineer | 2+ Years Experience
+
+- ❤️ **Passion**: Innovating with tech & exploring new tools.
+- 😊 **Happiness** Crafting quick hacks to streamline tasks.
+- 🎓 **Education**: B.Tech in CSE from [NIT Andhra Pradesh](https://www.nitandhra.ac.in)
+- ✍️ **Interests**: AI, ML, Robotics & GenAI.
+- 🌟 **Projects**: Visit my **[Repos](https://github.com/itsRkator?tab=repositories)** — Loved? Drop a Star!
+
+> 🏆 To shape the future: think, analyze, invent, test, and iterate.
+
 
 ## 🌟 Projects
 
-- **[Contract Note Parser](https://github.com/itsRkator/contract-note-parser)**: A Python Flask application that extracts contract information from PDFs using OpenAI and AWS Textract. **Tech Stack**: Python, Flask, AWS.
-- **[FamO Money](https://github.com/itsRkator/famo-money)**: A platform for families to manage their investments in stocks, mutual funds, and real estate, built with Nest.js and PostgreSQL. **Tech Stack**: Nest.js, PostgreSQL, JavaScript.
-- **[Vehicle Crash Analytics](https://github.com/itsRkator/vehicle-crash-analytics)**: A web application for analyzing vehicle crashes using Angular, MySQL, and Python Flask. **Tech Stack**: Angular, MySQL, Flask.
+- **[Contract Note Parser]()**: A a parser to extract and process contract details from broker-provided notes (e.g., Groww, Upstox), handling various types of transaction data.
+    > **Tech Stack**: Python, Flask, PostgreSQL, OpenAI LLM with Unstract, Amazon Textract, , AWS.
+- **[FamO Money]()**: A FinTech application, which is for families who own multiple companies
+and investments, facilitating the management of all kinds of funds, assets, and cash details in one place.
+    > **Tech Stack**: Nest.js, PostgreSQL, JavaScript.
+- **[Vehicle Crash Analytics]()**: A web application for analyzing vehicle crash data, enabling insights on a daily,
+weekly, monthly, and annual basis
+    > **Tech Stack**: Angular, MySQL, Flask.
 
 ## 🎯 Why I Love Coding
 
