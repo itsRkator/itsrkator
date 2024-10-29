@@ -10,7 +10,7 @@
 
 <div align="center">
     <p>Hi there👋🏻! I'm Rohitash Kator, a passionate Software Engineer.</p>
-    <img alt="Developer sitting at System" height="50%" width="100%" src="https://github.com/itsrkator/itsrkator/blob/main/Right_Side.gif" />
+    <img alt="Developer sitting at System" height="300" width="100%" src="https://github.com/itsrkator/itsrkator/blob/main/Right_Side.gif" />
 </div>
 
 ## 👨🏻‍💻 About Me
