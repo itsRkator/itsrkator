@@ -22,7 +22,7 @@
 - 🌱 Currently, I'm diving deeper into **Artificial Intelligence**, **Systems Design**, and **Cloud Architecture** to enhance my skill set.
 - ✍️ In my leisure time, I love exploring new tech trends, honing my problem-solving skills, and enjoying soft music.
 - 🌟 Explore my [Repositories](https://github.com/itsRkator?tab=repositories) to see the projects I've built. If you love them, drop a star! 
-- 🏆 "The best way to predict the future is to think, analyze, invent, test, learn from mistakes, and then re-build it."
+- 🏆 The best way to predict the future is to think, analyze, invent, test, learn from mistakes, and then re-build it.
 
 
 
