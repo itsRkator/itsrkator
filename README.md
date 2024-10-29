@@ -9,14 +9,13 @@
 </div>
 
 <div align="center">
-    <p>Hi there👋🏻!</p>
-    <p>I'm Rohitash Kator, a passionate Software Engineer.</p>
+    <p>Hi there👋🏻! I'm Rohitash Kator, a passionate Software Engineer.</p>
     <img alt="Developer sitting at System" height="auto" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" />
 </div>
 
-<img height="180em" width="100%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
 ## 👨🏻‍💻 About Me
+<img height="180em" width="50%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
 - 🚀 I'm a passionate Software Engineer with 2+ years of hands-on experience in **JavaScript**, **Node.js**, **Angular**, **React.js**, **Python**, **Flask**, **MongoDB**, and **MySQL**.
 - 💡 I thrive on exploring new technologies and creating innovative software solutions, often developing quick hacks to streamline tasks.
 - 🎓 I hold a B.Tech in Computer Science and Engineering from [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in).
@@ -24,6 +23,8 @@
 - ✍️ In my leisure time, I love exploring new tech trends, honing my problem-solving skills, and enjoying soft music.
 - 🌟 Explore my [Repositories](https://github.com/itsRkator?tab=repositories) to see the projects I've built. If you love them, drop a star! 
 - 🏆 "The best way to predict the future is to think, analyze, invent, test, learn from mistakes, and then re-build it."
+
+
 
 ## 🌟 Projects
 - **[Contract Note Parser](https://github.com/itsRkator/contract-note-parser)**: A Python Flask application that extracts contract information from PDFs using OpenAI and AWS Textract. **Tech Stack**: Python, Flask, AWS.
