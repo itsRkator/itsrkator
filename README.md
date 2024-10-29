@@ -14,7 +14,7 @@
 
 <img height="auto" width="45%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-#### 🚀 Software Development Engineer | 2+ Years 👨🏼‍💻
+#### 🚀 Software Development Engineer | 2+ Years 💼
 
 - ❤️ **Passion**: Innovating with tech & exploring new tools.
 - 😊 **Happiness** Crafting quick hacks to streamline tasks.
