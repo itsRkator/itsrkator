@@ -9,11 +9,12 @@
 </div>
 
 <div align="center">
-    <p>Hi there👋🏻! I'm Rohitash Kator, a passionate Software Engineer.</p>
+    <p>Hi there👋🏻!</p>
+    <p>I'm Rohitash Kator, a passionate Software Engineer.</p>
     <img alt="Developer sitting at System" height="auto" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" />
 </div>
 
-<img height="180em" width="45%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" width="100%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ## 👨🏻‍💻 About Me
 - 🚀 I'm a passionate Software Engineer with 2+ years of hands-on experience in **JavaScript**, **Node.js**, **Angular**, **React.js**, **Python**, **Flask**, **MongoDB**, and **MySQL**.
