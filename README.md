@@ -12,7 +12,7 @@
 
 ## 👨🏻‍💻 About Me
 
-<img height="180em" width="300" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="200" width="300" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 - 🚀 I'm a passionate Software Engineer with 2+ years of hands-on experience in **JavaScript**, **Node.js**, **Angular**, **React.js**, **Python**, **Flask**, **MongoDB**, and **MySQL**.
 - 💡 I thrive on exploring new technologies and creating innovative software solutions, often developing quick hacks to streamline tasks.
