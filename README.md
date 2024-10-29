@@ -1,5 +1,7 @@
 <div align="center">
-    <img alt="Focused developer working at a multi-monitor setup" height="300" width="auto" src="https://github.com/itsrkator/itsrkator/blob/main/code_in_focus.gif" />
+    <div>
+        <img alt="Focused developer working at a multi-monitor setup" height="300" width="auto" src="https://github.com/itsrkator/itsrkator/blob/main/code_in_focus.gif" />
+    </div>
     <b>Welcome to my GitHub Profile 👋🏻</b>
 
 ![GitHub Profile](https://img.shields.io/badge/@Rohitash%20Kator-purple?logo=h&logoColor=white&style=for-the-badge%22%20alt=%22GitHub%20Profile%22)
