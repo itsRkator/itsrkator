@@ -14,7 +14,7 @@
 
 <img height="auto" width="45%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-#### 🚀 Software Engineer | 2+ Years Experience
+#### 🚀 Software Development Engineer | 2+ Years 👨🏼‍💻
 
 - ❤️ **Passion**: Innovating with tech & exploring new tools.
 - 😊 **Happiness** Crafting quick hacks to streamline tasks.
@@ -31,10 +31,10 @@
     > **Tech Stack**: Python, Flask, PostgreSQL, OpenAI LLM with Unstract, Amazon Textract, , AWS.
 - **[FamO Money]()**: A FinTech application, which is for families who own multiple companies
 and investments, facilitating the management of all kinds of funds, assets, and cash details in one place.
-    > **Tech Stack**: Nest.js, PostgreSQL, JavaScript.
+    > **Tech Stack**: Nest.js, PostgreSQL, JavaScript/TypeScript, TypeORM.
 - **[Vehicle Crash Analytics]()**: A web application for analyzing vehicle crash data, enabling insights on a daily,
 weekly, monthly, and annual basis
-    > **Tech Stack**: Angular, MySQL, Flask.
+    > **Tech Stack**: Angular, MySQL, Flask, Angular Material, Bootstrap.
 
 ## 🎯 Why I Love Coding
 
