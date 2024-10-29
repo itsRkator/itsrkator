@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-    <p>Hi there👋🏻! I'm Rohitash Kator, a passionate Software Engineer.</p>
+    <h2>Welcome to my GitHub! 👋🏻</h2>
     <img alt="Illustration of a focused developer working at a multi-monitor setup, typing code with various lines of text displayed on the screens." height="300" width="auto" src="https://github.com/itsrkator/itsrkator/blob/main/code_in_focus.gif" />
 </div>
 
