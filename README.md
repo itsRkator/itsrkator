@@ -12,7 +12,7 @@
 
 ## 👨🏻‍💻 About Me
 
-<img height="auto" width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="3rem" width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 #### 🚀 Software Development Engineer | 2+ Years 💼
 
