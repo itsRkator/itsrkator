@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Welcome to my GitHub Profile 👋🏻</bH3>
+    <h3>Welcome to my GitHub Profile 👋🏻</h3>
     <div>
         <img alt="Focused developer working at a multi-monitor setup" height="300" width="auto" src="https://github.com/itsrkator/itsrkator/blob/main/code_in_focus.gif" />
     </div>
