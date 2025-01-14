@@ -50,7 +50,7 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
