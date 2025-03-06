@@ -66,14 +66,14 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 
 ## ⚙️ GitHub Analytics
 
-<p align="center">
+<div align="center">
 <!--     <img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="itsRkator" /> -->
 <!--     <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /> -->
 <!--     <img align="center" style="width: 100%;" src="" alt="itsRkator" /> -->
 ![Rohitash Kator's Streak](https://streak-stats.demolab.com?user=itsRkator&theme=algolia&hide_border=true)
 ![Rohitash Kator's Stats](https://github-readme-stats.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&count_private=true)
 ![Rohitash Kator's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsRkator&theme=onedark&row=1&column=7)
-</p>
+</div>
 
 ## 🤝🏻 Social
 
@@ -85,5 +85,4 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 [![Rohitash Kator's Facebook Profile](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=flat&logo=facebook)](https://facebook.com/itsRkator)
 [![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=flat&logo=twitter)](https://twitter.com/itsRkator)
 [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-itsRkator-ff105d?style=flat&logo=instagram)](https://instagram.com/itsRkator)
-
 </div>
