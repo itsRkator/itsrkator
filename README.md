@@ -67,7 +67,7 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-    <img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="itsRkator" />
+    <img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="itsRkator" />
     <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=itsRkator&theme=onedark&row=1&column=7" alt="itsRkator" />
 </p>
