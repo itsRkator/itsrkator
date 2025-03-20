@@ -13,7 +13,7 @@
 
 ## 👨🏻‍💻 About Me
 
-<img height="250" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="275" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 #### 🚀 Software Development Engineer | 2.5+ Years 💼
 
@@ -68,17 +68,16 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 
 ## ⚙️ GitHub Analytics
 
-<div align="center" style="display: flex; flex-direction: row">
-    
-![Rohitash Kator's Streak](https://streak-stats.demolab.com?user=itsRkator&theme=algolia&hide_border=false)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
+    <img width="48%" src="https://streak-stats.demolab.com?user=itsRkator&theme=algolia&hide_border=false" alt="Rohitash Kator's Streak" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&count_private=true" alt="Rohitash Kator's Stat" />
+    <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=itsRkator&theme=algolia&row=1&column=7" alt="Rohitash Kator's GitHub Trophies" />
+
+<!-- ![Rohitash Kator's Streak](https://streak-stats.demolab.com?user=itsRkator&theme=algolia&hide_border=false)
 ![Rohitash Kator's Stats](https://github-readme-stats.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&count_private=true)
-</div>
-<div align="center">
-
-![Rohitash Kator's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsRkator&theme=algolia&row=1&column=7)
+![Rohitash Kator's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsRkator&theme=algolia&row=1&column=7) -->
 
 </div>
-
 ## 🤝🏻 Social
 
 <div align="center">
