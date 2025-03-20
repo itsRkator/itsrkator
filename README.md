@@ -78,6 +78,7 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 ![Rohitash Kator's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsRkator&theme=algolia&row=1&column=7) -->
 
 </div>
+
 ## 🤝🏻 Social
 
 <div align="center">
