@@ -3,11 +3,12 @@
     <div>
         <img alt="Focused developer working at a multi-monitor setup" height="300" width="auto" src="https://github.com/itsrkator/itsrkator/blob/main/code_in_focus.gif" />
     </div>
-    
-![GitHub Profile](https://img.shields.io/badge/@Rohitash%20Kator-purple?logo=h&logoColor=white&style=for-the-badge%22%20alt=%22GitHub%20Profile%22)
-![Location](https://img.shields.io/badge/dynamic/json?color=green&label=Location&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FitsRkator&style=for-the-badge%22)
-![Visitors](https://komarev.com/ghpvc/?username=itsRkator&label=Visitors&color=0e75b6&style=for-the-badge")
-![Followers](https://img.shields.io/badge/dynamic/json?color=orange&label=Followers&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FitsRkator&style=for-the-badge")
+
+![GitHub Profile](https://img.shields.io/badge/@Rohitash%20Kator-purple?logo=github&logoColor=white&style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-India-green?style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=itsRkator&label=Visitors&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/itsRkator?style=for-the-badge)
+
 </div>
 
 ## 👨🏻‍💻 About Me
@@ -17,24 +18,25 @@
 #### 🚀 Software Development Engineer | 2.5+ Years 💼
 
 - ❤️ **Passion**: Innovating with tech & exploring new tools.
-- 😊 **Happiness** Crafting quick hacks to streamline tasks.
+- 😊 **Enjoys**: Crafting quick hacks to automate and optimize workflows.
 - 🎓 **Education**: B.Tech in CSE from [NIT Andhra Pradesh](https://www.nitandhra.ac.in)
 - ✍️ **Interests**: AI, ML, Robotics & GenAI.
 - 🌟 **Projects**: Visit my **[Repos](https://github.com/itsRkator?tab=repositories)** — Loved? Drop a Star!
 
 > 🏆 To shape the future: think, analyze, invent, test, and iterate.
 
-
 ## 🌟 Projects
 
-- **[Contract Note Parser]()**: A a parser to extract and process contract details from broker-provided notes (e.g., Groww, Upstox), handling various types of transaction data.
-    > **Tech Stack**: Python, Flask, PostgreSQL, OpenAI LLM with Unstract, Amazon Textract, , AWS.
-- **[FamO Money]()**: A FinTech application, which is for families who own multiple companies
-and investments, facilitating the management of all kinds of funds, assets, and cash details in one place.
-    > **Tech Stack**: Nest.js, PostgreSQL, JavaScript/TypeScript, TypeORM.
-- **[Vehicle Crash Analytics]()**: A web application for analyzing vehicle crash data, enabling insights on a daily,
-weekly, monthly, and annual basis
-    > **Tech Stack**: Angular, MySQL, Flask, Angular Material, Bootstrap.
+- **[Contract Note Parser](https://github.com/itsRkator/contract-note-parser)**: A parser to extract and process contract details from broker-provided notes (e.g., Groww, Upstox), handling various types of transaction data.
+
+  > **Tech Stack**: Python, Flask, PostgreSQL, OpenAI LLM with Unstruct, Amazon Textract, AWS.
+
+- **[FamO Money](https://github.com/itsRkator/famo-money)**: A FinTech application for families who own multiple companies and investments, facilitating the management of all kinds of funds, assets, and cash details in one place.
+
+  > **Tech Stack**: Nest.js, PostgreSQL, JavaScript/TypeScript, TypeORM.
+
+- **[Vehicle Crash Analytics](https://github.com/itsRkator/vehicle-crash-analytics)**: A web application for analyzing vehicle crash data, enabling insights on a daily, weekly, monthly, and annual basis.
+  > **Tech Stack**: Angular, MySQL, Flask, Angular Material, Bootstrap.
 
 ## 🎯 Why I Love Coding
 
@@ -45,7 +47,7 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -66,21 +68,26 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 
 ## ⚙️ GitHub Analytics
 
+<div align="center" style="display: flex; flex-direction: row">
+    
+![Rohitash Kator's Streak](https://streak-stats.demolab.com?user=itsRkator&theme=algolia&hide_border=false)
+![Rohitash Kator's Stats](https://github-readme-stats.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&count_private=true)
+</div>
 <div align="center">
 
-![Rohitash Kator's Streak](https://streak-stats.demolab.com?user=itsRkator&theme=algolia&hide_border=true)
-![Rohitash Kator's Stats](https://github-readme-stats.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&count_private=true)
 ![Rohitash Kator's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsRkator&theme=algolia&row=1&column=7)
+
 </div>
 
 ## 🤝🏻 Social
 
 <div align="center">
 
-[![Rohitash Kator's GitHub Profile](https://img.shields.io/badge/github-itsRkator-30363d?style=flat&logo=github)](https://www.github.com/itsRkator)
-[![Rohitash Kator's LinkedIn Profile](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=flat&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
-[![Rohitash Kator's DEV Community Profile](https://img.shields.io/badge/dev-itsRkator-000000?style=flat&logo=dev.to)](https://dev.to/itsrkator)
-[![Rohitash Kator's Facebook Profile](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=flat&logo=facebook)](https://facebook.com/itsRkator)
-[![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=flat&logo=twitter)](https://twitter.com/itsRkator)
-[![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-itsRkator-ff105d?style=flat&logo=instagram)](https://instagram.com/itsRkator)
+[![GitHub](https://img.shields.io/badge/github-itsRkator-30363d?style=flat&logo=github)](https://www.github.com/itsRkator)
+[![LinkedIn](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=flat&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
+[![DEV Community](https://img.shields.io/badge/dev-itsRkator-000000?style=flat&logo=dev.to)](https://dev.to/itsrkator)
+[![Facebook](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=flat&logo=facebook)](https://facebook.com/itsRkator)
+[![Twitter](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=flat&logo=twitter)](https://twitter.com/itsRkator)
+[![Instagram](https://img.shields.io/badge/instagram-itsRkator-ff105d?style=flat&logo=instagram)](https://instagram.com/itsRkator)
+
 </div>
