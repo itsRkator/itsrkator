@@ -86,8 +86,8 @@ Ever since I wrote my first "Hello World" program, I’ve been fascinated by the
 [![GitHub](https://img.shields.io/badge/github-itsRkator-30363d?style=flat&logo=github)](https://www.github.com/itsRkator)
 [![LinkedIn](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=flat&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
 [![DEV Community](https://img.shields.io/badge/dev-itsRkator-000000?style=flat&logo=dev.to)](https://dev.to/itsrkator)
-[![Facebook](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=flat&logo=facebook)](https://facebook.com/itsRkator)
-[![Twitter](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=flat&logo=twitter)](https://twitter.com/itsRkator)
-[![Instagram](https://img.shields.io/badge/instagram-itsRkator-ff105d?style=flat&logo=instagram)](https://instagram.com/itsRkator)
+<!-- [![Facebook](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=flat&logo=facebook)](https://facebook.com/itsRkator) -->
+<!-- [![Twitter](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=flat&logo=twitter)](https://twitter.com/itsRkator) -->
+[![Instagram](https://img.shields.io/badge/instagram-intact.infinity-ff105d?style=flat&logo=instagram)](https://instagram.com/intact.infinity)
 
 </div>
