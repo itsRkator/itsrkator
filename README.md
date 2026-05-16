@@ -1,93 +1,125 @@
 <div align="center">
-    <h3>Welcome to my GitHub Profile 👋🏻</h3>
+    <h2>Rohitash Kator</h2>
+    <h4>Senior Backend Engineer · Node.js · TypeScript · NestJS · Go · Python · GCP · AWS</h4>
     <div>
-        <img alt="Focused developer working at a multi-monitor setup" height="300" width="auto" src="https://github.com/itsrkator/itsrkator/blob/main/code_in_focus.gif" />
+        <img alt="Focused developer working at a multi-monitor setup" height="260" width="auto" src="https://github.com/itsrkator/itsrkator/blob/main/code_in_focus.gif" />
     </div>
 
-![GitHub Profile](https://img.shields.io/badge/@Rohitash%20Kator-purple?logo=github&logoColor=white&style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-India-green?style=for-the-badge)
+![GitHub Profile](https://img.shields.io/badge/@itsRkator-171515?logo=github&logoColor=white&style=for-the-badge)
+![Location](https://img.shields.io/badge/India-Remote-blue?style=for-the-badge)
 ![Visitors](https://komarev.com/ghpvc/?username=itsRkator&label=Visitors&color=0e75b6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/itsRkator?style=for-the-badge)
 
 </div>
 
+---
+
 ## 👨🏻‍💻 About Me
 
-<img height="275" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="260" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsRkator&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-#### 🚀 Software Development Engineer | 2.5+ Years 💼
+#### 🚀 Senior Backend Engineer | 3+ Years
 
-- ❤️ **Passion**: Innovating with tech & exploring new tools.
-- 😊 **Enjoys**: Crafting quick hacks to automate and optimize workflows.
-- 🎓 **Education**: B.Tech in CSE from [NIT Andhra Pradesh](https://www.nitandhra.ac.in)
-- ✍️ **Interests**: AI, ML, Robotics & GenAI.
-- 🌟 **Projects**: Visit my **[Repos](https://github.com/itsRkator?tab=repositories)** — Loved? Drop a Star!
+- 🔧 **Stack**: Node.js, Express.js, JavaScript, TypeScript, NestJS, Go, Python, GraphQL, REST APIs
+- ☁️ **Cloud**: GCP (Certified ACE + PDE), AWS, Docker, Kubernetes
+- 🏦 **Domains**: FinTech, Influencer Marketing SaaS, AI/LLM document processing
+- 🤖 **AI Tools**: GitHub Copilot (Certified), Cursor, OpenAI API, AWS Textract, Vertex AI
+- 🎓 **Education**: B.Tech, CS&E — [NIT Andhra Pradesh](https://www.nitandhra.ac.in)
+- 📍 **Location**: India · Open to remote globally
 
-> 🏆 To shape the future: think, analyze, invent, test, and iterate.
+> Built systems that hit **95%+ LLM extraction accuracy**, eliminated **90%+ manual data entry**, and reduced test-authoring time **~40%** using AI tooling across distributed microservice repos.
 
-## 🌟 Projects
+---
 
-- **[Contract Note Parser](https://github.com/itsRkator/contract-note-parser)**: A parser to extract and process contract details from broker-provided notes (e.g., Groww, Upstox), handling various types of transaction data.
+## 🌟 Featured Projects
 
-  > **Tech Stack**: Python, Flask, PostgreSQL, OpenAI LLM with Unstruct, Amazon Textract, AWS.
+- **Employee Management API** — Production-grade REST API in **Go** using Clean/Hexagonal Architecture (Gin, MongoDB). Request-ID middleware, structured logging (slog), graceful shutdown, health endpoint, request timeouts.
+  > **Stack**: Go · Gin · MongoDB · Clean Architecture · slog · Docker
 
-- **[FamO Money](https://github.com/itsRkator/famo-money)**: A FinTech application for families who own multiple companies and investments, facilitating the management of all kinds of funds, assets, and cash details in one place.
+- **Real-Time Chat Application** — Full-stack chat platform with JWT + Google OAuth, Socket.IO WebSockets, Slack-style rooms, delivery/read receipts, typing indicators, and in-app notifications.
+  > **Stack**: NestJS · Angular · PostgreSQL · Socket.IO · TypeORM · Google OAuth · bcrypt
 
-  > **Tech Stack**: Nest.js, PostgreSQL, JavaScript/TypeScript, TypeORM.
+- **Contract Note Parser** — LLM-powered PDF parser achieving **95%+ extraction accuracy** on financial broker documents. Multi-threaded page chunking for high-volume ingestion. Eliminated 90%+ of manual back-office data entry.
+  > **Stack**: Python · Flask · AWS Textract · OpenAI · PostgreSQL
 
-- **[Vehicle Crash Analytics](https://github.com/itsRkator/vehicle-crash-analytics)**: A web application for analyzing vehicle crash data, enabling insights on a daily, weekly, monthly, and annual basis.
-  > **Tech Stack**: Angular, MySQL, Flask, Angular Material, Bootstrap.
+- **Poll Management System** — Production-grade polling platform with role-based access, JWT auth, token blacklisting, dual frontends (React + Angular) on a single client-agnostic API, and full test coverage.
+  > **Stack**: Node.js · Express.js · MongoDB · React · Angular · JWT · Jest · Supertest
 
-## 🎯 Why I Love Coding
+- **FamO Money** — FinTech backend for family investment tracking across mutual funds, equities, bonds, real estate, and private deals. Real-time portfolio valuation via market data APIs.
+  > **Stack**: NestJS · PostgreSQL · TypeORM · TypeScript · Firebase
 
-Ever since I wrote my first "Hello World" program, I’ve been fascinated by the power of technology to solve real-world problems. I love the creative aspect of coding, turning ideas into functional applications that can help people.
+- **SSL Certificate Checker** — Full-stack domain SSL monitoring tool with real-time certificate validity and expiration tracking.
+  > **Stack**: Node.js · Express · Next.js · TypeScript
+
+---
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-05122A?style=flat&logo=socket.io)
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-05122A?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 </div>
 
-## ⚙️ GitHub Analytics
+---
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
-    <img width="48%" src="https://streak-stats.demolab.com?user=itsRkator&theme=algolia&hide_border=false" alt="Rohitash Kator's Streak" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&count_private=true" alt="Rohitash Kator's Stat" />
-    <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=itsRkator&theme=algolia&row=1&column=7" alt="Rohitash Kator's GitHub Trophies" />
-
-<!-- ![Rohitash Kator's Streak](https://streak-stats.demolab.com?user=itsRkator&theme=algolia&hide_border=false)
-![Rohitash Kator's Stats](https://github-readme-stats.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&count_private=true)
-![Rohitash Kator's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsRkator&theme=algolia&row=1&column=7) -->
-
-</div>
-
-## 🤝🏻 Social
+## 🏆 Certifications
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-itsRkator-30363d?style=flat&logo=github)](https://www.github.com/itsRkator)
-[![LinkedIn](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=flat&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
-[![DEV Community](https://img.shields.io/badge/dev-itsRkator-000000?style=flat&logo=dev.to)](https://dev.to/itsrkator)
-[![Instagram](https://img.shields.io/badge/instagram-intact.infinity-ff105d?style=flat&logo=instagram)](https://instagram.com/intact.infinity)
-<!-- [![Facebook](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=flat&logo=facebook)](https://facebook.com/itsRkator) -->
-<!-- [![Twitter](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=flat&logo=twitter)](https://twitter.com/itsRkator) -->
+![GCP ACE](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP PDE](https://img.shields.io/badge/Google%20Cloud-Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-Certified%20Professional-171515?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## ⚙️ GitHub Analytics
+
+<div align="center">
+    <img width="48%" src="https://streak-stats.demolab.com?user=itsRkator&theme=algolia&hide_border=false" alt="Rohitash Kator's Streak" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&show_icons=true&theme=algolia&count_private=true" alt="Rohitash Kator's Stats" />
+    <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=itsRkator&theme=algolia&row=1&column=7" alt="Rohitash Kator's GitHub Trophies" />
+</div>
+
+---
+
+## 🤝🏻 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itsRkator-007bb5?style=flat&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
+[![GitHub](https://img.shields.io/badge/GitHub-itsRkator-171515?style=flat&logo=github)](https://www.github.com/itsRkator)
+[![Portfolio](https://img.shields.io/badge/Portfolio-itsrkator.github.io-0e75b6?style=flat&logo=safari)](https://itsrkator.github.io)
+[![DEV Community](https://img.shields.io/badge/DEV-itsRkator-000000?style=flat&logo=dev.to)](https://dev.to/itsrkator)
+[![Instagram](https://img.shields.io/badge/Instagram-intact.infinity-ff105d?style=flat&logo=instagram)](https://instagram.com/intact.infinity)
 
 </div>
